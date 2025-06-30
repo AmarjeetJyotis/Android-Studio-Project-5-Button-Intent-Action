@@ -31,6 +31,22 @@ This is a simple Android application demonstrating how to pass data (Name and Ag
 ### Activity 2 – Display Result
 ![Display Screen](/mnt/data/e3d960a2-4eef-4fb7-a08f-c303d0af62e2.png)
 
+
+## 🧑‍💻 Author
+
+**Amarjeet Kumar**  
+**UID:** 21BCS10768  
+**Department of Computer Science & Engineering**  
+**Chandigarh University**
+
+**Portfolio:** [https://amarjeetkr.vercel.app/](https://amarjeetkr.vercel.app/)  
+**LinkTree:** [https://linktr.ee/AmarjeetKumarJyotish](https://linktr.ee/AmarjeetKumarJyotish)  
+**GitHub:** [https://github.com/AmarjeetJyotis](https://github.com/AmarjeetJyotis)  
+**LinkedIn:** [https://www.linkedin.com/in/amarjeet-jyotish/](https://www.linkedin.com/in/amarjeet-jyotish/)  
+**GeeksforGeeks:** [https://www.geeksforgeeks.org/user/amarjeetjyotish/](https://www.geeksforgeeks.org/user/amarjeetjyotish/)  
+**LeetCode:** [https://leetcode.com/u/AmarjeetJyotish/](https://leetcode.com/u/AmarjeetJyotish/)
+
+
 ## 📂 Project Structure
 
 app/
@@ -78,17 +94,6 @@ Android device or emulator (API 29+)
 
 Java 8+
 
-🧑‍💻 Author
-Amarjeet Kumar
-
 📝 License
 This project is licensed under the MIT License - see the LICENSE file for details.
-
-yaml
-Copy
-Edit
-
----
-
-Let me know if you'd like me to generate a GitHub repository with this structure, or want to include Kotlin, Jetpack Compose, or any other enhancements.
 
